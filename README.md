@@ -4,7 +4,7 @@ Fine-tuned on ~11,500 Arabic/English emergency dispatch dialogues using QLoRA on
 
 ## Model weights
 Adapter hosted on Hugging Face:
-👉 https://huggingface.co/your-username/llama31-911-qlora
+👉 https://anonymous-hf.up.railway.app/a/mwv18npgrwji/   ##Anonymous to comply with the double-blind reviewing 
 
 ## Load the model
 ```python
