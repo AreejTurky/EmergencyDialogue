@@ -39,5 +39,5 @@ tokenizer = AutoTokenizer.from_pretrained("[your-username/llama31-911-qlora](htt
 ```bash
 pip install -r requirements.txt
 # Upload your sft_chatml.jsonl to GCS first, then:
-jupyter notebook notebooks/01_finetune.ipynb
+jupyter notebook gcp-qlora-llama31-8b.ipynb
 ```
