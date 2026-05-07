@@ -1,0 +1,9 @@
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+final-adapter/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
