@@ -1,6 +1,6 @@
 # Llama-3.1-8B QLoRA — Bilingual 911 Emergency Dispatch
 
-Fine-tuned on ~11,500 Arabic/English emergency dispatch dialogues using QLoRA on GCP Vertex AI.
+Fine-tuned on ~22ن Arabic/English emergency dispatch dialogues using QLoRA on GCP Vertex AI.
 
 ## Model weights
 Adapter hosted on Hugging Face:
